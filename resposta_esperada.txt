@@ -1,0 +1,196 @@
+Encoding: utf-8, Data: 23/03/2023
+
++ Capital n°0, Nome: Guatemala City, Idiomas: {'spa': 'Spanish'}
+- Capital n°1, Nome: Singapore, Idiomas: {'zho': 'Chinese', 'eng': 'English', 'msa': 'Malay', 'tam': 'Tamil'}
++ Capital n°2, Nome: Sarajevo, Idiomas: {'bos': 'Bosnian', 'hrv': 'Croatian', 'srp': 'Serbian'}
+- Capital n°3, Nome: Malé, Idiomas: {'div': 'Maldivian'}
++ Capital n°4, Nome: Riga, Idiomas: {'lav': 'Latvian'}
+- Capital n°5, Nome: Athens, Idiomas: {'ell': 'Greek'}
++ Capital n°6, Nome: Amman, Idiomas: {'ara': 'Arabic'}
+- Capital n°7, Nome: Dhaka, Idiomas: {'ben': 'Bengali'}
++ Capital n°8, Nome: Rome, Idiomas: {'ita': 'Italian'}
+- Capital n°9, Nome: Algiers, Idiomas: {'ara': 'Arabic'}
++ Capital n°10, Nome: Paris, Idiomas: {'fra': 'French'}
+- Capital n°11, Nome: Thimphu, Idiomas: {'dzo': 'Dzongkha'}
++ Capital n°12, Nome: São Tomé, Idiomas: {'por': 'Portuguese'}
+- Capital n°13, Nome: Yaren, Idiomas: {'eng': 'English', 'nau': 'Nauru'}
++ Capital n°14, Nome: Libreville, Idiomas: {'fra': 'French'}
+- Capital n°15, Nome: Oslo, Idiomas: {'nno': 'Norwegian Nynorsk', 'nob': 'Norwegian Bokmål', 'smi': 'Sami'}
++ Capital n°16, Nome: Funafuti, Idiomas: {'eng': 'English', 'tvl': 'Tuvaluan'}
+- Capital n°17, Nome: New Delhi, Idiomas: {'eng': 'English', 'hin': 'Hindi', 'tam': 'Tamil'}
++ Capital n°18, Nome: Phnom Penh, Idiomas: {'khm': 'Khmer'}
+- Capital n°19, Nome: Port Louis, Idiomas: {'eng': 'English', 'fra': 'French', 'mfe': 'Mauritian Creole'}
++ Capital n°20, Nome: Kinshasa, Idiomas: {'fra': 'French', 'kon': 'Kikongo', 'lin': 'Lingala', 'lua': 'Tshiluba', 'swa': 'Swahili'}
+- Capital n°21, Nome: City of San Marino, Idiomas: {'ita': 'Italian'}
++ Capital n°22, Nome: Panama City, Idiomas: {'spa': 'Spanish'}
+- Capital n°23, Nome: Amsterdam, Idiomas: {'nld': 'Dutch'}
++ Capital n°24, Nome: Managua, Idiomas: {'spa': 'Spanish'}
+- Capital n°25, Nome: Freetown, Idiomas: {'eng': 'English'}
++ Capital n°26, Nome: Bridgetown, Idiomas: {'eng': 'English'}
+- Capital n°27, Nome: Jerusalem, Idiomas: {'ara': 'Arabic', 'heb': 'Hebrew'}
++ Capital n°28, Nome: Kigali, Idiomas: {'eng': 'English', 'fra': 'French', 'kin': 'Kinyarwanda'}
+- Capital n°29, Nome: Ankara, Idiomas: {'tur': 'Turkish'}
++ Capital n°30, Nome: Majuro, Idiomas: {'eng': 'English', 'mah': 'Marshallese'}
+- Capital n°31, Nome: Maputo, Idiomas: {'por': 'Portuguese'}
++ Capital n°32, Nome: Abuja, Idiomas: {'eng': 'English'}
+- Capital n°33, Nome: Moscow, Idiomas: {'rus': 'Russian'}
++ Capital n°34, Nome: Havana, Idiomas: {'spa': 'Spanish'}
+- Capital n°35, Nome: San José, Idiomas: {'spa': 'Spanish'}
++ Capital n°36, Nome: San Salvador, Idiomas: {'spa': 'Spanish'}
+- Capital n°37, Nome: Ljubljana, Idiomas: {'slv': 'Slovene'}
++ Capital n°38, Nome: Port Moresby, Idiomas: {'eng': 'English', 'hmo': 'Hiri Motu', 'tpi': 'Tok Pisin'}
+- Capital n°39, Nome: Tegucigalpa, Idiomas: {'spa': 'Spanish'}
++ Capital n°40, Nome: Lisbon, Idiomas: {'por': 'Portuguese'}
+- Capital n°41, Nome: Port of Spain, Idiomas: {'eng': 'English'}
++ Capital n°42, Nome: Banjul, Idiomas: {'eng': 'English'}
+- Capital n°43, Nome: Naypyidaw, Idiomas: {'mya': 'Burmese'}
++ Capital n°44, Nome: Cairo, Idiomas: {'ara': 'Arabic'}
+- Capital n°45, Nome: Beirut, Idiomas: {'ara': 'Arabic', 'fra': 'French'}
++ Capital n°46, Nome: Nairobi, Idiomas: {'eng': 'English', 'swa': 'Swahili'}
+- Capital n°47, Nome: Malabo, Idiomas: {'fra': 'French', 'por': 'Portuguese', 'spa': 'Spanish'}
++ Capital n°48, Nome: Zagreb, Idiomas: {'hrv': 'Croatian'}
+- Capital n°49, Nome: Washington, D.C., Idiomas: {'eng': 'English'}
++ Capital n°50, Nome: Manila, Idiomas: {'eng': 'English', 'fil': 'Filipino'}
+- Capital n°51, Nome: Nur-Sultan, Idiomas: {'kaz': 'Kazakh', 'rus': 'Russian'}
++ Capital n°52, Nome: Buenos Aires, Idiomas: {'grn': 'Guaraní', 'spa': 'Spanish'}
+- Capital n°53, Nome: Dushanbe, Idiomas: {'rus': 'Russian', 'tgk': 'Tajik'}
++ Capital n°54, Nome: Baku, Idiomas: {'aze': 'Azerbaijani', 'rus': 'Russian'}
+- Capital n°55, Nome: Bucharest, Idiomas: {'ron': 'Romanian'}
++ Capital n°56, Nome: Santiago, Idiomas: {'spa': 'Spanish'}
+- Capital n°57, Nome: Nicosia, Idiomas: {'ell': 'Greek', 'tur': 'Turkish'}
++ Capital n°58, Nome: Praia, Idiomas: {'por': 'Portuguese'}
+- Capital n°59, Nome: Sofia, Idiomas: {'bul': 'Bulgarian'}
++ Capital n°60, Nome: Montevideo, Idiomas: {'spa': 'Spanish'}
+- Capital n°61, Nome: Skopje, Idiomas: {'mkd': 'Macedonian'}
++ Capital n°62, Nome: Kabul, Idiomas: {'prs': 'Dari', 'pus': 'Pashto', 'tuk': 'Turkmen'}
+- Capital n°63, Nome: Gaborone, Idiomas: {'eng': 'English', 'tsn': 'Tswana'}
++ Capital n°64, Nome: Ottawa, Idiomas: {'eng': 'English', 'fra': 'French'}
+- Capital n°65, Nome: Nouakchott, Idiomas: {'ara': 'Arabic'}
++ Capital n°66, Nome: Doha, Idiomas: {'ara': 'Arabic'}
+- Capital n°67, Nome: Madrid, Idiomas: {'spa': 'Spanish'}
++ Capital n°68, Nome: Sana'a, Idiomas: {'ara': 'Arabic'}
+- Capital n°69, Nome: Mogadishu, Idiomas: {'ara': 'Arabic', 'som': 'Somali'}
++ Capital n°70, Nome: Stockholm, Idiomas: {'swe': 'Swedish'}
+- Capital n°71, Nome: Vaduz, Idiomas: {'deu': 'German'}
++ Capital n°72, Nome: Rabat, Idiomas: {'ara': 'Arabic', 'ber': 'Berber'}
+- Capital n°73, Nome: Antananarivo, Idiomas: {'fra': 'French', 'mlg': 'Malagasy'}
++ Capital n°74, Nome: Kyiv, Idiomas: {'ukr': 'Ukrainian'}
+- Capital n°75, Nome: Tehran, Idiomas: {'fas': 'Persian (Farsi)'}
++ Capital n°76, Nome: Warsaw, Idiomas: {'pol': 'Polish'}
+- Capital n°77, Nome: N'Djamena, Idiomas: {'ara': 'Arabic', 'fra': 'French'}
++ Capital n°78, Nome: Port Vila, Idiomas: {'bis': 'Bislama', 'eng': 'English', 'fra': 'French'}
+- Capital n°79, Nome: Ngerulmud, Idiomas: {'eng': 'English', 'pau': 'Palauan'}
++ Capital n°80, Nome: Lima, Idiomas: {'aym': 'Aymara', 'que': 'Quechua', 'spa': 'Spanish'}
+- Capital n°81, Nome: Mbabane, Idiomas: {'eng': 'English', 'ssw': 'Swazi'}
++ Capital n°82, Nome: Luxembourg, Idiomas: {'deu': 'German', 'fra': 'French', 'ltz': 'Luxembourgish'}
+- Capital n°83, Nome: Djibouti, Idiomas: {'ara': 'Arabic', 'fra': 'French'}
++ Capital n°84, Nome: Port-au-Prince, Idiomas: {'fra': 'French', 'hat': 'Haitian Creole'}
+- Capital n°85, Nome: Damascus, Idiomas: {'ara': 'Arabic'}
++ Capital n°86, Nome: Mexico City, Idiomas: {'spa': 'Spanish'}
+- Capital n°87, Nome: Reykjavik, Idiomas: {'isl': 'Icelandic'}
++ Capital n°88, Nome: Suva, Idiomas: {'eng': 'English', 'fij': 'Fijian', 'hif': 'Fiji Hindi'}
+- Capital n°89, Nome: Pyongyang, Idiomas: {'kor': 'Korean'}
++ Capital n°90, Nome: Honiara, Idiomas: {'eng': 'English'}
+- Capital n°91, Nome: Conakry, Idiomas: {'fra': 'French'}
++ Capital n°92, Nome: Basseterre, Idiomas: {'eng': 'English'}
+- Capital n°93, Nome: Manama, Idiomas: {'ara': 'Arabic'}
++ Capital n°94, Nome: Vilnius, Idiomas: {'lit': 'Lithuanian'}
+- Capital n°95, Nome: Tbilisi, Idiomas: {'kat': 'Georgian'}
++ Capital n°96, Nome: Belgrade, Idiomas: {'srp': 'Serbian'}
+- Capital n°97, Nome: Bangui, Idiomas: {'fra': 'French', 'sag': 'Sango'}
++ Capital n°98, Nome: Bamako, Idiomas: {'fra': 'French'}
+- Capital n°99, Nome: Ulan Bator, Idiomas: {'mon': 'Mongolian'}
++ Capital n°100, Nome: Roseau, Idiomas: {'eng': 'English'}
+- Capital n°101, Nome: Addis Ababa, Idiomas: {'amh': 'Amharic'}
++ Capital n°102, Nome: Tripoli, Idiomas: {'ara': 'Arabic'}
+- Capital n°103, Nome: Windhoek, Idiomas: {'afr': 'Afrikaans', 'deu': 'German', 'eng': 'English', 'her': 'Herero', 'hgm': 'Khoekhoe', 'kwn': 'Kwangali', 'loz': 'Lozi', 'ndo': 'Ndonga', 'tsn': 'Tswana'}
++ Capital n°104, Nome: Chișinău, Idiomas: {'ron': 'Romanian'}
+- Capital n°105, Nome: Sucre, Idiomas: {'aym': 'Aymara', 'grn': 'Guaraní', 'que': 'Quechua', 'spa': 'Spanish'}
++ Capital n°106, Nome: Santo Domingo, Idiomas: {'spa': 'Spanish'}
+- Capital n°107, Nome: Jakarta, Idiomas: {'ind': 'Indonesian'}
++ Capital n°108, Nome: Minsk, Idiomas: {'bel': 'Belarusian', 'rus': 'Russian'}
+- Capital n°109, Nome: Brazzaville, Idiomas: {'fra': 'French', 'kon': 'Kikongo', 'lin': 'Lingala'}
++ Capital n°110, Nome: Monrovia, Idiomas: {'eng': 'English'}
+- Capital n°111, Nome: Valletta, Idiomas: {'eng': 'English', 'mlt': 'Maltese'}
++ Capital n°112, Nome: Pretoria, Idiomas: {'afr': 'Afrikaans', 'eng': 'English', 'nbl': 'Southern Ndebele', 'nso': 'Northern Sotho', 'sot': 'Southern Sotho', 'ssw': 'Swazi', 'tsn': 'Tswana', 'tso': 'Tsonga', 'ven': 'Venda', 'xho': 'Xhosa', 'zul': 'Zulu'}
+- Capital n°113, Nome: Lomé, Idiomas: {'fra': 'French'}
++ Capital n°114, Nome: Yerevan, Idiomas: {'hye': 'Armenian'}
+- Capital n°115, Nome: Tirana, Idiomas: {'sqi': 'Albanian'}
++ Capital n°116, Nome: Andorra la Vella, Idiomas: {'cat': 'Catalan'}
+- Capital n°117, Nome: Juba, Idiomas: {'eng': 'English'}
++ Capital n°118, Nome: Abu Dhabi, Idiomas: {'ara': 'Arabic'}
+- Capital n°119, Nome: Prague, Idiomas: {'ces': 'Czech', 'slk': 'Slovak'}
++ Capital n°120, Nome: St. George's, Idiomas: {'eng': 'English'}
+- Capital n°121, Nome: Islamabad, Idiomas: {'eng': 'English', 'urd': 'Urdu'}
++ Capital n°122, Nome: Vatican City, Idiomas: {'ita': 'Italian', 'lat': 'Latin'}
+- Capital n°123, Nome: Yaoundé, Idiomas: {'eng': 'English', 'fra': 'French'}
++ Capital n°124, Nome: Kingston, Idiomas: {'eng': 'English', 'jam': 'Jamaican Patois'}
+- Capital n°125, Nome: Moroni, Idiomas: {'ara': 'Arabic', 'fra': 'French', 'zdj': 'Comorian'}
++ Capital n°126, Nome: Ashgabat, Idiomas: {'rus': 'Russian', 'tuk': 'Turkmen'}
+- Capital n°127, Nome: Bandar Seri Begawan, Idiomas: {'msa': 'Malay'}
++ Capital n°128, Nome: Saint John's, Idiomas: {'eng': 'English'}
+- Capital n°129, Nome: Accra, Idiomas: {'eng': 'English'}
++ Capital n°130, Nome: Kuwait City, Idiomas: {'ara': 'Arabic'}
+- Capital n°131, Nome: Asmara, Idiomas: {'ara': 'Arabic', 'eng': 'English', 'tir': 'Tigrinya'}
++ Capital n°132, Nome: Harare, Idiomas: {'bwg': 'Chibarwe', 'eng': 'English', 'kck': 'Kalanga', 'khi': 'Khoisan', 'ndc': 'Ndau', 'nde': 'Northern Ndebele', 'nya': 'Chewa', 'sna': 'Shona', 'sot': 'Sotho', 'toi': 'Tonga', 'tsn': 'Tswana', 'tso': 'Tsonga', 'ven': 'Venda', 'xho': 'Xhosa', 'zib': 'Zimbabwean Sign Language'}
+- Capital n°133, Nome: Dodoma, Idiomas: {'eng': 'English', 'swa': 'Swahili'}
++ Capital n°134, Nome: Tallinn, Idiomas: {'est': 'Estonian'}
+- Capital n°135, Nome: Belmopan, Idiomas: {'bjz': 'Belizean Creole', 'eng': 'English', 'spa': 'Spanish'}
++ Capital n°136, Nome: Riyadh, Idiomas: {'ara': 'Arabic'}
+- Capital n°137, Nome: Wellington, Idiomas: {'eng': 'English', 'mri': 'Māori', 'nzs': 'New Zealand Sign Language'}
++ Capital n°138, Nome: Bogotá, Idiomas: {'spa': 'Spanish'}
+- Capital n°139, Nome: Kuala Lumpur, Idiomas: {'eng': 'English', 'msa': 'Malay'}
++ Capital n°140, Nome: Vienna, Idiomas: {'de': 'German'}
+- Capital n°141, Nome: Apia, Idiomas: {'eng': 'English', 'smo': 'Samoan'}
++ Capital n°142, Nome: Kampala, Idiomas: {'eng': 'English', 'swa': 'Swahili'}
+- Capital n°143, Nome: Kathmandu, Idiomas: {'nep': 'Nepali'}
++ Capital n°144, Nome: Asunción, Idiomas: {'grn': 'Guaraní', 'spa': 'Spanish'}
+- Capital n°145, Nome: Canberra, Idiomas: {'eng': 'English'}
++ Capital n°146, Nome: London, Idiomas: {'eng': 'English'}
+- Capital n°147, Nome: Lusaka, Idiomas: {'eng': 'English'}
++ Capital n°148, Nome: Castries, Idiomas: {'eng': 'English'}
+- Capital n°149, Nome: Bishkek, Idiomas: {'kir': 'Kyrgyz', 'rus': 'Russian'}
++ Capital n°150, Nome: Quito, Idiomas: {'spa': 'Spanish'}
+- Capital n°151, Nome: Dili, Idiomas: {'por': 'Portuguese', 'tet': 'Tetum'}
++ Capital n°152, Nome: Kingstown, Idiomas: {'eng': 'English'}
+- Capital n°153, Nome: Hanoi, Idiomas: {'vie': 'Vietnamese'}
++ Capital n°154, Nome: Dublin, Idiomas: {'eng': 'English', 'gle': 'Irish'}
+- Capital n°155, Nome: Helsinki, Idiomas: {'fin': 'Finnish', 'swe': 'Swedish'}
++ Capital n°156, Nome: Tokyo, Idiomas: {'jpn': 'Japanese'}
+- Capital n°157, Nome: Brasília, Idiomas: {'por': 'Portuguese'}
++ Capital n°158, Nome: Podgorica, Idiomas: {'cnr': 'Montenegrin'}
+- Capital n°159, Nome: Georgetown, Idiomas: {'eng': 'English'}
++ Capital n°160, Nome: Bratislava, Idiomas: {'slk': 'Slovak'}
+- Capital n°161, Nome: Monaco, Idiomas: {'fra': 'French'}
++ Capital n°162, Nome: Beijing, Idiomas: {'zho': 'Chinese'}
+- Capital n°163, Nome: Vientiane, Idiomas: {'lao': 'Lao'}
++ Capital n°164, Nome: Caracas, Idiomas: {'spa': 'Spanish'}
+- Capital n°165, Nome: Budapest, Idiomas: {'hun': 'Hungarian'}
++ Capital n°166, Nome: Berlin, Idiomas: {'deu': 'German'}
+- Capital n°167, Nome: Nuku'alofa, Idiomas: {'eng': 'English', 'ton': 'Tongan'}
++ Capital n°168, Nome: Baghdad, Idiomas: {'ara': 'Arabic', 'arc': 'Aramaic', 'ckb': 'Sorani'}
+- Capital n°169, Nome: Bangkok, Idiomas: {'tha': 'Thai'}
++ Capital n°170, Nome: Tunis, Idiomas: {'ara': 'Arabic'}
+- Capital n°171, Nome: Gitega, Idiomas: {'fra': 'French', 'run': 'Kirundi'}
++ Capital n°172, Nome: Bern, Idiomas: {'fra': 'French', 'gsw': 'Swiss German', 'ita': 'Italian', 'roh': 'Romansh'}
+- Capital n°173, Nome: Porto-Novo, Idiomas: {'fra': 'French'}
++ Capital n°174, Nome: South Tarawa, Idiomas: {'eng': 'English', 'gil': 'Gilbertese'}
+- Capital n°175, Nome: Khartoum, Idiomas: {'ara': 'Arabic', 'eng': 'English'}
++ Capital n°176, Nome: Tashkent, Idiomas: {'rus': 'Russian', 'uzb': 'Uzbek'}
+- Capital n°177, Nome: Ouagadougou, Idiomas: {'fra': 'French'}
++ Capital n°178, Nome: Sri Jayawardenepura Kotte, Idiomas: {'sin': 'Sinhala', 'tam': 'Tamil'}
+- Capital n°179, Nome: Niamey, Idiomas: {'fra': 'French'}
++ Capital n°180, Nome: Paramaribo, Idiomas: {'nld': 'Dutch'}
+- Capital n°181, Nome: Luanda, Idiomas: {'por': 'Portuguese'}
++ Capital n°182, Nome: Yamoussoukro, Idiomas: {'fra': 'French'}
+- Capital n°183, Nome: Maseru, Idiomas: {'eng': 'English', 'sot': 'Sotho'}
++ Capital n°184, Nome: Lilongwe, Idiomas: {'eng': 'English', 'nya': 'Chewa'}
+- Capital n°185, Nome: Nassau, Idiomas: {'eng': 'English'}
++ Capital n°186, Nome: Bissau, Idiomas: {'por': 'Portuguese', 'pov': 'Upper Guinea Creole'}
+- Capital n°187, Nome: Victoria, Idiomas: {'crs': 'Seychellois Creole', 'eng': 'English', 'fra': 'French'}
++ Capital n°188, Nome: Palikir, Idiomas: {'eng': 'English'}
+- Capital n°189, Nome: Brussels, Idiomas: {'deu': 'German', 'fra': 'French', 'nld': 'Dutch'}
++ Capital n°190, Nome: Seoul, Idiomas: {'kor': 'Korean'}
+- Capital n°191, Nome: Copenhagen, Idiomas: {'dan': 'Danish'}
++ Capital n°192, Nome: Muscat, Idiomas: {'ara': 'Arabic'}
+- Capital n°193, Nome: Dakar, Idiomas: {'fra': 'French'}
