@@ -27,3 +27,4 @@ Encoding: utf-8, Data: 23/03/2023
 * Antes da manipulação dos dados, o arquivo deve conter o seu encoding e a data de execução no formato: **dd/mm/yyyy** na primeira linha do arquivo.
 * Cada linha deve conter o número da iteração, o nome da capital e seus respectivos idiomas.
 * Em cada início de linha você deverá indicar se o índice da capital/iteração é par ou impar, com '+' ou '-'.
+* Colocar comentários no código explicando os blocos de códigos, funções, loops, condiconais e etc...
